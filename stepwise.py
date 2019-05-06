@@ -1,4 +1,4 @@
-## step wise logistical regression
+## step wise logistic regression
 ## 2019/5/3 9:55
 ## Shanghaitech University SIST 1A406
 ## wangke
